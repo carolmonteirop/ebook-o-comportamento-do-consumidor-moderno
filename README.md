@@ -7,7 +7,7 @@
 > Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 >
-> <a href="[Ebook O Comportamento do Consumidor Moderno.pdf](https://github.com/carolmonteirop/ebook-o-comportamento-do-consumidor-moderno/blob/8fea5e97e40a3e8ac7ce78b67963bd3dee308225/Ebook%20O%20Comportamento%20do%20Consumidor%20Moderno.pdf)"> 📕Clique aqui para ler</a>
+> <a href="[https://www.canva.com/design/DAGXCCXyU_c/Rfe86I0380JxnPlwS0Ywxg/edit?utm_content=DAGXCCXyU_c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
