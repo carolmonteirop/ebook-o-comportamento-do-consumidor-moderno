@@ -38,4 +38,4 @@ Shakker：
 - Imagens geradas via Shakker
 
 ## 📕Clique no link abaixo para ler
-- [Ebook]([https://www.canva.com/design/DAGXCCXyU_c/Rfe86I0380JxnPlwS0Ywxg/edit?utm_content=DAGXCCXyU_c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Leitura](https://www.canva.com/design/DAGXCCXyU_c/i55aGi1m-ZOfJSR9IsebcA/view?utm_content=DAGXCCXyU_c&utm_campaign=designshare&utm_medium=link&utm_source=editor) 
