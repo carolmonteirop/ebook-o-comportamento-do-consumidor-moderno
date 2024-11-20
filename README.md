@@ -7,7 +7,7 @@
 > Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 >
-> <a href="[https://www.canva.com/design/DAGXCCXyU_c/Rfe86I0380JxnPlwS0Ywxg/edit?utm_content=DAGXCCXyU_c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]" title="View PDF now"> 📕Clique aqui para ler</a>
+> [📕Clique aqui para ler]([https://www.canva.com/design/DAGXCCXyU_c/Rfe86I0380JxnPlwS0Ywxg/edit?utm_content=DAGXCCXyU_c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 💻 Tecnologias utilizadas no projeto
 
