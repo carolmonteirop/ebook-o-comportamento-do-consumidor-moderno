@@ -8,9 +8,7 @@
 seguem abaixo.
 >
 >
->## ebook
 >
-> [📕Clique aqui para ler]([https://www.canva.com/design/DAGXCCXyU_c/Rfe86I0380JxnPlwS0Ywxg/edit?utm_content=DAGXCCXyU_c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -38,3 +36,7 @@ Shakker：
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Shakker
+
+- ## 📕Clique aqui para ler
+>
+> [📕Clique aqui para ler]([https://www.canva.com/design/DAGXCCXyU_c/Rfe86I0380JxnPlwS0Ywxg/edit?utm_content=DAGXCCXyU_c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
